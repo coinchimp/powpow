@@ -1,0 +1,178 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/Banner.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************/
+/* src/app/Banner.module.css */
+.Banner_banner__y4Ikt {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-top: 33.33%; /* 3:1 Aspect Ratio */
+    overflow: hidden;
+  }
+  
+  .Banner_bannerImage__GLSON {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .Banner_bannerText__PfTMm {
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+/*!*******************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/page.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************/
+/* src/app/page.module.css */
+.page_container__aoG4z {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url('/nacho_background.jpg') no-repeat center center fixed;
+    background-size: cover;
+  }
+  
+  .page_main__GlU4n {
+    text-align: center;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .page_logo__7fc9l {
+    margin-bottom: 20px;
+  }
+  
+  .page_title__3jonF {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+
+  .page_title2__cojCZ {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+  }  
+
+  .page_description__86bsR {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  
+  .page_bannerText__ylMIS {
+    text-align: center;
+    font-size: 1.8rem;
+    font-family: 'Poppins', sans-serif; /* You can change this to any cool font you prefer */
+    color: #333;
+    background-color: #e2ceb6;
+    padding: 20px 40px; /* Add padding to left and right sides */
+    margin: 20px auto; /* Center the container */
+    border-radius: 10px;
+    max-width: 800px; /* Optional: limit the max width */
+  }
+  
+  .page_highlight__KaGfy {
+    font-weight: bold;
+  } 
+
+  .page_highlight2__pfDL_ {
+    font-weight: bold;
+    color: #333;
+  } 
+
+  .page_bannerTopText__NdnUO {
+    font-weight: bold;
+    font-size: 2.1rem;
+    color: #a00515; /* Highlight color, you can change this to any color you prefer */
+  }   
+
+  .page_featuresSection__kMr0r {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    background-color: #688597;
+    color: #fff;
+  }
+  
+  .page_featuresImage__wTCIc {
+    margin-right: 40px;
+  }
+  
+  .page_featuresText__Y5mH3 {
+    max-width: 600px;
+  }
+  
+  .page_featuresText__Y5mH3 h2 {
+    font-family: 'Poppins', sans-serif; /* You can change this to any cool font you prefer */
+    margin-bottom: 20px;
+  }
+  
+  .page_featuresText__Y5mH3 ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .page_featuresText__Y5mH3 li {
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+  }
+  
+  .page_bottomSection__F7NCr {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    background-color: #1c1a22;
+    color: #f4e4cd;
+  }
+  
+  .page_bottomColumn__qIwiC {
+    flex: 1;
+    max-width: 600px;
+    margin: 0 20px;
+    text-align: center;
+  }
+  
+  .page_bottomColumn__qIwiC h2 {
+    font-family: 'Poppins', sans-serif; /* You can change this to any cool font you prefer */
+    margin-bottom: 20px;
+  }
+  
+  .page_bottomColumn__qIwiC p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
+  .page_poweredBy__KjJnv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif; /* You can change this to any cool font you prefer */
+    color: #1c1a22; /* Text color */
+  }
+  
+  .page_poweredByLogo__ZWC_o {
+    margin-right: 10px;
+  }
+  
+  .page_poweredByText__GFDAb {
+    font-size: 1.2rem;
+    text-decoration: none; /* Remove underline */
+    color: #1c1a22; /* Text color */
+    font-family: 'Poppins', sans-serif; /* Ensure the font is consistent */
+  }
+

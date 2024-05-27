@@ -1,0 +1,13 @@
+[remote "origin"]
+	url = git@github.com:coinchimp/powpow.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[lfs]
+	repositoryformatversion = 0

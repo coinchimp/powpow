@@ -1,0 +1,143 @@
+/* src/app/page.module.css */
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url('/nacho_background.jpg') no-repeat center center fixed;
+    background-size: cover;
+  }
+  
+  .main {
+    text-align: center;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .logo {
+    margin-bottom: 20px;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+
+  .title2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+  }  
+
+  .description {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  
+  .bannerText {
+    text-align: center;
+    font-size: 1.8rem;
+    font-family: 'Poppins', sans-serif; /* You can change this to any cool font you prefer */
+    color: #333;
+    background-color: #e2ceb6;
+    padding: 20px 40px; /* Add padding to left and right sides */
+    margin: 20px auto; /* Center the container */
+    border-radius: 10px;
+    max-width: 800px; /* Optional: limit the max width */
+  }
+  
+  .highlight {
+    font-weight: bold;
+  } 
+
+  .highlight2 {
+    font-weight: bold;
+    color: #333;
+  } 
+
+  .bannerTopText {
+    font-weight: bold;
+    font-size: 2.1rem;
+    color: #a00515; /* Highlight color, you can change this to any color you prefer */
+  }   
+
+  .featuresSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    background-color: #688597;
+    color: #fff;
+  }
+  
+  .featuresImage {
+    margin-right: 40px;
+  }
+  
+  .featuresText {
+    max-width: 600px;
+  }
+  
+  .featuresText h2 {
+    font-family: 'Poppins', sans-serif; /* You can change this to any cool font you prefer */
+    margin-bottom: 20px;
+  }
+  
+  .featuresText ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .featuresText li {
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+  }
+  
+  .bottomSection {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    background-color: #1c1a22;
+    color: #f4e4cd;
+  }
+  
+  .bottomColumn {
+    flex: 1;
+    max-width: 600px;
+    margin: 0 20px;
+    text-align: center;
+  }
+  
+  .bottomColumn h2 {
+    font-family: 'Poppins', sans-serif; /* You can change this to any cool font you prefer */
+    margin-bottom: 20px;
+  }
+  
+  .bottomColumn p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
+  .poweredBy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif; /* You can change this to any cool font you prefer */
+    color: #1c1a22; /* Text color */
+  }
+  
+  .poweredByLogo {
+    margin-right: 10px;
+  }
+  
+  .poweredByText {
+    font-size: 1.2rem;
+    text-decoration: none; /* Remove underline */
+    color: #1c1a22; /* Text color */
+    font-family: 'Poppins', sans-serif; /* Ensure the font is consistent */
+  }

@@ -51,7 +51,7 @@ Detailed SWOT analysis for the Radiant meme coin project, focusing on the introd
 3. **Regulatory Challenges**: Regulatory changes or interventions in cryptocurrency, especially regarding mineable tokens, could impact the project negatively.
 4. **Technical Scalability Issues**: While Radiant currently supports a high transaction rate, the real-world application at scale following the launch might uncover unforeseen technical challenges.
 
-### 4. **Timeline and Milestones**
+## 4. **Timeline and Milestones**
 1. **Narrative Development:** Complete the narrative creation for PowPow, emphasizing its unique selling points (Completed by Q2 2024).
     - We have an advance here: https://powpow-8dg.pages.dev/ 
 2. **Team Recruitment:** Fill essential roles such as Project Leader, Social Media Team Lead, and Mining Community Lead (Q2 2024).
@@ -60,22 +60,22 @@ Detailed SWOT analysis for the Radiant meme coin project, focusing on the introd
 5. **Token Launch:** Execute the fair launch of PowPow, ensuring all participants have equal mining opportunities (Q2-Q3 2024).
 6. **DEX Listing:** Coordinate with our DEXs to list PowPow, providing liquidity and trading options for holders (Q3 2024).
 
-### 5. **KPIs and Success Metrics**
+## 5. **KPIs and Success Metrics**
 - Community growth (e.g., number of Discord members, Twitter followers).
 - Engagement rates (likes, shares, comments).
 - Number of miners and mining rate post-launch.
 - Token adoption rate and trading volume post-DEX listing.
 
-### 6. **Budget and Funding**
+## 6. **Budget and Funding**
 - Develop a budget plan covering marketing, community management, and technology development.   
 - Explore funding options, including community donations, sponsorships, or initial bootstrap funding from key stakeholders.
 
-### 7. **Risk Management**
+## 7. **Risk Management**
 - Prepare for potential technical issues with continuous testing and community feedback.
 - Monitor competitor activities and adjust strategies accordingly.
 - Build a resilient and adaptable team to handle unforeseen challenges.
 
-## Team Composition and Role Assignments
+## 8. Team Composition and Role Assignments
 
 The success of the PowPow meme coin on the Radiant network depends on assembling a team with diverse skills and roles filled by competent individuals. Here’s an outline of the critical team roles, their responsibilities, and the current status of these positions:
 
@@ -128,11 +128,11 @@ The success of the PowPow meme coin on the Radiant network depends on assembling
 **Current Status:** Not at assigned.  
 **Action Plan:** Identify a creative professional with experience in graphic design and multimedia production in the crypto sector.
 
-## Recruitment and Team Building
+### Recruitment and Team Building
 
 Given the gaps in the current team composition, the immediate next steps involve aggressive recruitment to fill these key roles. It's crucial to prioritize candidates who are not only skilled but also passionate about cryptocurrency and the vision of PowPo and Radiant.
 
-## Building Team Cohesion
+### Building Team Cohesion
 
 Once the team is fully assembled, conducting initial team-building activities will be essential to foster collaboration and alignment. Regular meetings and workshops on the Radiant technology.
 

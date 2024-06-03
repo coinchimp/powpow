@@ -53,6 +53,7 @@ Detailed SWOT analysis for the Radiant meme coin project, focusing on the introd
 
 ### 4. **Timeline and Milestones**
 1. **Narrative Development:** Complete the narrative creation for PowPow, emphasizing its unique selling points (Completed by Q2 2024).
+    - We have an advance here: https://powpow-8dg.pages.dev/ 
 2. **Team Recruitment:** Fill essential roles such as Project Leader, Social Media Team Lead, and Mining Community Lead (Q2 2024).
 3. **Community Building:** Launch official Twitter and Discord channels, start engaging with potential users and miners (Q2 2024).
 4. **Promotional Campaigns:** Begin online promotions through targeted ads, influencer partnerships, and content marketing (Q2-Q3 2024).

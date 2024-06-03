@@ -40,8 +40,8 @@
     text-align: center;
     font-size: 1.8rem;
     font-family: 'Poppins', sans-serif; /* You can change this to any cool font you prefer */
-    color: #333;
-    background-color: #e2ceb6;
+    color: #000000;
+    background-color: #ffffff;
     padding: 20px 40px; /* Add padding to left and right sides */
     margin: 20px auto; /* Center the container */
     border-radius: 10px;
@@ -60,7 +60,7 @@
   .bannerTopText {
     font-weight: bold;
     font-size: 2.1rem;
-    color: #a00515; /* Highlight color, you can change this to any color you prefer */
+    color: #402c5e; /* Highlight color, you can change this to any color you prefer */
   }   
 
   .featuresSection {
@@ -68,8 +68,8 @@
     justify-content: center;
     align-items: center;
     padding: 40px;
-    background-color: #688597;
-    color: #fff;
+    background-color: #09c8fa;
+    color: #000000;
   }
   
   .featuresImage {
@@ -99,8 +99,8 @@
     display: flex;
     justify-content: center;
     padding: 40px;
-    background-color: #1c1a22;
-    color: #f4e4cd;
+    background-color: #000000;
+    color: #ffffff;
   }
   
   .bottomColumn {

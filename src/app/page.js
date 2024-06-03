@@ -17,7 +17,7 @@ export default function Home() {
         </p>
       </div>
       <div className={styles.featuresSection}>
-        <Image src="/powpow_front_picture.jpg" alt="Features Image" width={300} height={300} className={styles.featuresImage} />
+        <Image src="/logo.png" alt="Features Image" width={300} height={300} className={styles.featuresImage} />
         <div className={styles.featuresText}>
           <h2>Launch Conditions</h2>
           <ul>

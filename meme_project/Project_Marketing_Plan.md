@@ -1,7 +1,7 @@
 
 # Project Marketing Plan: PowPow, the first Radiant Mineable Meme Token
 
-Creating a marketing plan for the Radiant meme coin, named PowPow, involves a detailed outline of the necessary steps and strategies to ensure the project's success. Here’s how we can proceed:
+Creating a marketing plan for the Radiant meme coin, named PowPow, involves a detailed outline of the necessary steps and strategies to ensure the project's success.
 
 ## 1. **Project Overview**
 **Goal:** Launch PowPow as a mineable meme coin on the Radiant network to showcase the benefits of mineable fungible tokens, utilizing Radiant's speed and smart contract capabilities.
